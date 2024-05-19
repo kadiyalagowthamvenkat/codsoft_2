@@ -1,1 +1,1 @@
-# codsoft_2
+CODSOFT Java Internship Number Game Program
